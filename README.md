@@ -2,7 +2,7 @@ LINK FILE .APK:
 https://drive.google.com/file/d/1bXnvBN8Z7Rk0lqrvHtNXRtm5UsMta_m4/view?usp=sharing 
 
 LINK REPOSITORY LAB_WEEK02_A:
-https://github.com/rafpoo/LAB_WEEK_02_C  
+https://github.com/rafpoo/LAB_WEEK_02_A 
 
 LINK REPOSITORY LAB_WEEK02_C:
 https://github.com/rafpoo/LAB_WEEK_02_C 
